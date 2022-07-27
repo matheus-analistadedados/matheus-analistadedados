@@ -1,3 +1,4 @@
+![Design sem nome (7)](https://user-images.githubusercontent.com/110049399/181132839-3909619c-2a9a-465d-aa72-486849466487.png)
 <h1 align="center">Olá 👋, Eu sou Matheus José da Costa Lacerda</h1>
 <h3 align="center">Apaixonado por Análise e Ciência dos Dados</h3>
 
@@ -33,3 +34,5 @@
 matheus-analistadedados/matheus-analistadedados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
