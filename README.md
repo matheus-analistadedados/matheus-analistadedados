@@ -1,11 +1,15 @@
 ![Design sem nome (7)](https://user-images.githubusercontent.com/110049399/181132839-3909619c-2a9a-465d-aa72-486849466487.png)
-<h1 align="center">Olá 👋, Eu sou Matheus José da Costa Lacerda</h1>
+<h1 align="center">Olá 👋, Eu sou Matheus Lacerda</h1>
 <h3 align="center">Apaixonado por Análise e Ciência dos Dados</h3>
 <br />
 
-- 🌱 Atualmente estou aprendendo sobre **SQL e Data Lake**
+- 👨‍💻 Trabalhei no setor de Gerenciamento de Empreendimentos onde tive contato com BI elaborando Dashboards Gerenciais.
 
-- 📝 Eu posto meus projetos no site [https://sites.google.com/view/portfolio-matheuslacerda](https://sites.google.com/view/portfolio-matheuslacerda)
+- 💞️ Me identifiquei tanto com essa área de Analise de Dados, que decidi migrar.
+
+- 🌱 Aprendendo a otimizar dashboards no Power BI com **Data Lake** e comandos **SQL**
+
+- 📝 Você Pode acompanhar meus projetos no site [https://sites.google.com/view/portfolio-matheuslacerda](https://sites.google.com/view/portfolio-matheuslacerda)
 
 - 💬 Me pergunte sobre **Power BI, Data Studio, Excel e Linguagens: R, Python, SQL e C**
 
