@@ -3,7 +3,7 @@
 <h3 align="center">Apaixonado por Análise e Ciência dos Dados</h3>
 <br />
 
-- 👨‍💻 Trabalhei no setor de Gerenciamento de Empreendimentos onde tive contato com BI elaborando Dashboards Gerenciais.
+- 👨‍💻 Trabalhei no setor de Gerenciamento de Empreendimentos onde aprendi sobre BI  para elaboração de Dashboards Gerenciais.
 
 - 💞️ Me identifiquei tanto com essa área de Analise de Dados, que decidi migrar.
 
